@@ -1,0 +1,15 @@
+嗨，你好！我是Eddie。
+
+個人資料：
+職業：軟體工程師，前端開發人員
+技能：
+Node.js（Express, Nestjs）
+Typescript
+Vue 
+React
+Git
+MySQL
+MongoDB
+Docker
+
+我非常願意學習和交流想法。如果有任何問題或者想與我溝通，請隨時聯繫我。
