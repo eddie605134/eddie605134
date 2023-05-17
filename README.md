@@ -1,14 +1,16 @@
 # From coffee to code—fuelling my passion. 🐈
+
+<img src="./public/codingcat.jpg" alt="Introduction Trailer" width="175" height="175" align="right">
+
+Hi, I'm Eddie Chang, a frontend engineer who loves cats, traveling, and literature. I create user-friendly websites and find inspiration in exploring new cultures and immersing myself in books. Let's connect and chat about frontend development, travel, or our shared love for cats!
+# Introduction
+
 - 💻 Front-end engineer with a curiosity for backend development.
 - 🚀 Front-end developer with a growing fascination for the backend world.
 - 🌟 Embarking on a front-end development career while exploring the realm of backend possibilities.
 - ⚡️ Enthusiastic about front-end development and captivated by the mysteries of the backend.
-- 📚 Bookworm with a passion for literature, getting lost in captivating stories in my free time.
-- 🌍 Travel enthusiast, eager to explore new cultures and experience the wonders of the world.
+- 🌍 Travel enthusiast, eager to explore experience.
 - 📫 How to reach me: eddie605134@gmail.com
-
-# Introduction 
-<img src="./public/codingcat.jpg" alt="Introduction Trailer" width="200" height="200">
 
 # Tech Stack
 ## Programming Languages
