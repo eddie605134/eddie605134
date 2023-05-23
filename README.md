@@ -14,7 +14,7 @@ Hi, I'm Eddie Chang, a Front-end engineer who loves cats, traveling, and literat
 - 📫 How to reach me: eddie605134@gmail.com
 
 # Tech Stack
-## Languages and Tools
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,sass,bootstrap,tailwind,vue,nuxt,react,redux,vite,webpack,express,nest,vscode,git,github,gitlab,mysql,mongodb,postman,figma,ps,ai,docker,nginx&theme=light)](https://skillicons.dev)
 
 
