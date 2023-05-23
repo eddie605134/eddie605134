@@ -14,40 +14,13 @@ Hi, I'm Eddie Chang, a Front-end engineer who loves cats, traveling, and literat
 - 📫 How to reach me: eddie605134@gmail.com
 
 # Tech Stack
-## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,&theme=light)](https://skillicons.dev)
+## Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,sass,bootstrap,tailwind,vue,nuxt,react,redux,vite,webpack,express,nest,vscode,git,github,gitlab,mysql,mongodb,postman,figma,ps,ai,docker,nginx&theme=light)](https://skillicons.dev)
 
-## Front-End Skills
-[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,vue,nuxt,react,redux,vite,webpack&theme=light)](https://skillicons.dev)
-
-
-## Back-End Skills
-[![My Skills](https://skillicons.dev/icons?i=express,nest&theme=light)](https://skillicons.dev)
-
-## Integrated Development Environment (IDE)
-[![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)](https://skillicons.dev)
-
-## Version Control
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://skillicons.dev)
-
-## Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skillicons.dev)
-
-## API Tool
-[![My Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://skillicons.dev)
-
-## Design Tool
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai&theme=light)](https://skillicons.dev)
-
-## Cloud Native
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx&theme=light)](https://skillicons.dev)
 
 # Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddie605134&langs_count=5&hide=ejs,handlebars)](https://github.com/anuraghazra/github-readme-stats)
 
-
-# GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddie605134&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
